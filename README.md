@@ -8,8 +8,14 @@
 ### Adjustments and improvements
 
 The project is already finished!
+##
 
-## 🤝 Contributors
+### 📄Project on GitHub Pages:
+    
+ Link: https://gomesb07.github.io/Project1-CSS-layout/
+
+##
+### 🤝 Contributors
 
 We thank the following people who contributed to this project:
 
