@@ -1,9 +1,9 @@
 # Yoga Interface
 
 
-<img src="./fotoreadme/fototeste.jpeg">
+<img src="./imgrdm/imgyoga.png">
 
-> Result of the Yoga project.
+> Basic login design for mobile app.
 
 ### Adjustments and improvements
 
