@@ -5,7 +5,7 @@
 
 > Basic login design for mobile app.
 
-### Adjustments and improvements
+### 🛠Adjustments and improvements
 
 The project is already finished!
 ##
